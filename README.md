@@ -15,7 +15,7 @@
       Brunheller Investments. Innovative finance for a digital world.
     </p>
     <p>
-      <a href="https://github.com/brunheller">Explore Brunheller</a>&nbsp;&nbsp;—&nbsp;&nbsp;<a href="https://brunheller.com">Brunheller.com</a>      
+      <a href="https://github.com/brunheller">Explore Brunheller</a>&nbsp;—&nbsp;<a href="https://brunheller.com">Brunheller</a>      
     </p>
     <div>
       <a href="https://x.com/brunheller">
@@ -26,7 +26,7 @@
           <img src="https://ico.vercel.app/x/000000"  width="16px">
         </picture>
       </a>
-      &nbsp;&nbsp;
+      &nbsp;
       <a href="https://www.linkedin.com/company/brunheller/">
         <picture>
           <source 
@@ -35,7 +35,7 @@
           <img src="https://ico.vercel.app/linkedin/000000"  width="16px">
         </picture>
       </a>
-      &nbsp;&nbsp;
+      &nbsp;
       <a href="https://github.com/brunheller">
         <picture>
           <source 
