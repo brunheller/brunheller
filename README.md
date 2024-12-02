@@ -76,7 +76,7 @@
 <br />
 <br />
 <footer>
-  <p align="left">  
+  <p align="center">  
     Copyright © 2024 <a href="https://brunheller.com">Brunheller</a>. All rights reserved.
   </p>
 </footer>
