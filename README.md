@@ -4,18 +4,19 @@
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
-          srcset="https://github.com/user-attachments/assets/b096ea48-61d5-4ad1-8732-eb6646ff8191" width="100%">
-        <img src="https://github.com/user-attachments/assets/b096ea48-61d5-4ad1-8732-eb6646ff8191" width="100%">
+          srcset="https://github.com/user-attachments/assets/9a604f7c-ef9b-45a1-a3aa-f18cdb0a1cf7" width="100%">
+        <img src="https://github.com/user-attachments/assets/9e48e48f-1945-4224-ba8e-d3cc6ea06a1c" width="100%">
       </picture>
     </a>
   </div>
+  <br />
   <div align="center">
     <h3>Brunheller</h3>
     <p>
       Brunheller Investments. Innovative finance for a digital world.
     </p>
     <p>
-      <a href="https://github.com/brunheller">Explore Brunheller</a>&nbsp;—&nbsp;<a href="https://brunheller.com">Brunheller</a>      
+      <a href="https://github.com/brunheller">Explore Brunheller</a>&nbsp;.&nbsp;<a href="https://brunheller.com">Brunheller</a>
     </p>
     <div>
       <a href="https://x.com/brunheller">
@@ -26,7 +27,7 @@
           <img src="https://ico.vercel.app/x/000000"  width="16px">
         </picture>
       </a>
-      &nbsp;
+      &nbsp;&nbsp;
       <a href="https://www.linkedin.com/company/brunheller/">
         <picture>
           <source 
@@ -35,7 +36,7 @@
           <img src="https://ico.vercel.app/linkedin/000000"  width="16px">
         </picture>
       </a>
-      &nbsp;
+      &nbsp;&nbsp;
       <a href="https://github.com/brunheller">
         <picture>
           <source 
@@ -74,9 +75,11 @@
 <br />
 <br />
 <br />
-<br />
 <footer>
-  <p align="center">  
-    Copyright © 2024 <a href="https://brunheller.com">Brunheller</a>. All rights reserved.
+  <p align="left">
+    <sub>Copyright © Brunheller Investments LLC (to be formed).</sub>
+  </p>
+  <p align="left">
+    <sub>All rights reserved. Unauthorized use, reproduction, or distribution of this material is strictly prohibited. This document and its content are proprietary and confidential, intended solely for use by authorized parties affiliated with Brunheller Investments LLC. Disclaimer: This document and its content are provided for informational purposes only and do not constitute financial, legal, or investment advice. Any reliance on the information contained herein is at the sole discretion of the user. For inquiries, contact: inquire@brunheller.com</sub>
   </p>
 </footer>
