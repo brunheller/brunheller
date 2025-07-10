@@ -28,15 +28,6 @@
         </picture>
       </a>
       &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/company/brunheller/">
-        <picture>
-          <source 
-            media="(prefers-color-scheme: dark)" 
-            srcset="https://ico.vercel.app/linkedin/ffffff"  width="16px">
-          <img src="https://ico.vercel.app/linkedin/000000"  width="16px">
-        </picture>
-      </a>
-      &nbsp;&nbsp;
       <a href="https://github.com/brunheller">
         <picture>
           <source 
