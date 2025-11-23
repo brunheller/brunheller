@@ -16,7 +16,7 @@
       Brunheller Investments. Innovative finance for a digital world.
     </p>
     <p>
-      <a href="https://github.com/brunheller">Explore Brunheller</a>&nbsp;.&nbsp;<a href="https://brunheller.com">Brunheller</a>
+      <a href="https://github.com/brunheller">Explore Brunheller</a>&nbsp;.&nbsp;<a href="https://brunheller.com">Brunheller</a>&nbsp;.&nbsp;<a href="https://github.com/msg3x">MSG—3</a>
     </p>
     <div>
       <a href="https://x.com/brunheller">
